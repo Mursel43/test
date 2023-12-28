@@ -1,5 +1,6 @@
 #C{
     color: green;
+    accent-color: green ;
 }
  
 
@@ -10,4 +11,7 @@
 }
 .B{
     color: blue;
+}
+button{
+    accent-color: red;
 }
