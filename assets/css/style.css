@@ -1,17 +1,3 @@
-#C{
-    color: green;
-    accent-color: green ;
-}
- 
-
-
-.A{
-    color: red ;
-
-}
-.B{
-    color: blue;
-}
-button{
-    accent-color: red;
+.sened li:nth-child(2n+1){
+    color: red;
 }
